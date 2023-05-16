@@ -9,9 +9,9 @@ https://github.com/star-bits/burgerkingevent-bot/assets/93939472/ef444bff-2838-4
 ```shell
 export PATH=$PATH:/Users/star-bits/Applications/Android
 ```
-- Reload Zsh configuration
+- Reload `.zshrc`
 ```shell
-source ~/.zshrc
+. ~/.zshrc
 ```
 - Connect your computer and phone with a USB cable.
 - Run `adb devices` to verify the connection.
