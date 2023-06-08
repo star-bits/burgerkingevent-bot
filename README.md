@@ -1,13 +1,15 @@
 # burgerkingevent-bot
 
 ## Demo
-https://github.com/star-bits/burgerkingevent-bot/assets/93939472/ef444bff-2838-4dbf-bfad-9f31ff91f8ab 
+https://github.com/star-bits/burgerkingevent-bot/assets/93939472/17bdb819-edac-461e-9d96-2f64b2bd251c
 
 ## Install
 - Download adb (Android Debug Bridge) file. It can be a hassle so I've included it in the repository.
 - Add the path of the adb file to `.zshrc`.
 ```shell
-export PATH=$PATH:/Users/star-bits/Applications/adb
+export PATH=$PATH:/Users/star-bits/Applications
+# or, more commonly,
+export PATH=$PATH:/usr/local/bin
 ```
 - Reload `.zshrc`
 ```shell
