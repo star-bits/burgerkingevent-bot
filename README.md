@@ -1,7 +1,7 @@
 # burgerkingevent-bot
 
 ## Demo
-https://github.com/star-bits/burgerkingevent-bot/assets/93939472/ef444bff-2838-4dbf-bfad-9f31ff91f8ab
+https://github.com/star-bits/burgerkingevent-bot/assets/93939472/ef444bff-2838-4dbf-bfad-9f31ff91f8ab 
 
 ## Install
 - Download adb (Android Debug Bridge) file. It can be a hassle so I've included it in the repository.
